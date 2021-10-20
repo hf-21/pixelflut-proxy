@@ -32,3 +32,4 @@ Tamper with the ongoing traffic, maybe even introduce mini games or temporary ev
 - Shift whole canvas sections
 - "Block" canvas areas
 - Change colors randomly
+- Assign exclusive canvas areas to dedicated IP's (and even rewrite the coordinates like virtual windows)
